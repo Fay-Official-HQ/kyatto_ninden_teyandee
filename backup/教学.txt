@@ -1,0 +1,19 @@
+第一章：入门
+
+第一节：安装软件和熟悉工作流
+	必要软件：Godot、Trae、Asprite、Audacity
+	进阶软件：PS、PR、GoldWavePortable、IDM、Mesen模拟器等等……
+第二节：Godot核心概念
+	先阅读和实践官方文档：https://docs.godotengine.org/zh-cn/4.x/index.html
+	只需要看到新手入门即可
+	场景、节点、信号、实例化
+第三节：面向对象（OOP）
+	继承与组合、封装与多态、依赖注入、代码规范与可维护性
+	状态机、组件模式
+第四节：搭建项目
+第五节：使用Git管理代码
+第六节：准备素材
+第七节：开发游戏
+第八节：测试游戏
+第九节：导出游戏
+第十节：总结
